@@ -5,14 +5,14 @@ class Programmer
 
 	def initialize() 
 ```
+<h2> Conect with me: </h2>
+<div>
 
-![]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pjmaciel/) 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:pjmaciel_4@hotmail.com) 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pjmaciel)
 
-### Connect with me:
-[<img src='https://github.com/Pjmaciel/Pjmaciel/blob/main/logo_linkedin_icon_143191.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pjmaciel/) 
-[<img src='https://github.com/Pjmaciel/Pjmaciel/blob/main/logo_github_icon_143196.svg' alt='github' height='40'>](https://github.com/Pjmaciel)
-[<img src='https://github.com/Pjmaciel/Pjmaciel/blob/main/logo_gmail_envelope_letter_email_icon_143171.svg' alt='email' height='40'>](pjmaciel_4@hotmail.com)  
-
+</div>
 <h3>Open Source Projects</h3>
 <table>
     <thead align="center">
@@ -38,12 +38,12 @@ class Programmer
         </tr>
         <tr>
 		<td>2</td>
-		<td><a href="https://github.com/Pjmaciel/projetoGerenciamentoRh"><b>Gerenciamento RH</b></a></td>
+		<td><a href="https://github.com/deepdevsg5/Allocation_App"><b>Allocation</b></a></td>
 	 	<td>Developer</td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/Pjmaciel/projetoGerenciamentoRh?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/github/Pjmaciel/projetoGerenciamentoRh.svg?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Pjmaciel/projetoGerenciamentoRh?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pjmaciel/projetoGerenciamentoRh?style=flat-square&labelColor=343b41" /></td>
+	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/deepdevsg5/Allocation_App"?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Wakatime" src="https://wakatime.com/badge/github/deepdevsg5/Allocation_App"?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/deepdevsg5/Allocation_App"?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deepdevsg5/Allocation_App"?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
 		<td>3</td>
@@ -66,14 +66,13 @@ class Programmer
     </tbody>
 </table>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwNzd5bW54MzYydmRwdzg3eTcycGQ5ZmJheHM0cHY1dHRkdzFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif?raw=true" width="50%" height="500px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwNzd5bW54MzYydmRwdzg3eTcycGQ5ZmJheHM0cHY1dHRkdzFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif?raw=true" width="50%" height="400px" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pjmaciel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pjmaciel&show_icons=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pjmaciel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-<figure>
-	<embed src="https://wakatime.com/share/@marcodotcastro/7cd3cbfb-1783-43d5-9708-4d309157fe7a.svg"></embed></figure>
+
  
 ```ruby 
 	end 
