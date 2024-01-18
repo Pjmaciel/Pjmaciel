@@ -1,4 +1,4 @@
-# Olá, eu sou Pablo Jroge Maciel 
+# Olá, eu sou Pablo 
 
 ```ruby 
 class Programmer
