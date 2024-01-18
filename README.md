@@ -9,7 +9,9 @@ class Programmer
 ![]()
 
 ### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pjmaciel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pjmaciel/)
+[<img src='https://github.com/Pjmaciel/Pjmaciel/blob/main/logo_linkedin_icon_143191.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pjmaciel/) 
+[<img src='https://github.com/Pjmaciel/Pjmaciel/blob/main/logo_github_icon_143196.svg' alt='github' height='40'>](https://github.com/Pjmaciel)
+[<img src='https://github.com/Pjmaciel/Pjmaciel/blob/main/logo_gmail_envelope_letter_email_icon_143171.svg' alt='email' height='40'>](pjmaciel_4@hotmail.com)  
 
 <h3>Open Source Projects</h3>
 <table>
@@ -64,7 +66,7 @@ class Programmer
     </tbody>
 </table>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwNzd5bW54MzYydmRwdzg3eTcycGQ5ZmJheHM0cHY1dHRkdzFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif?raw=true" width="50%" height="400px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwNzd5bW54MzYydmRwdzg3eTcycGQ5ZmJheHM0cHY1dHRkdzFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif?raw=true" width="50%" height="500px" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel)](https://github.com/anuraghazra/github-readme-stats)
 
