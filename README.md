@@ -47,7 +47,7 @@ class Programmer
         </tr>
         <tr>
 		<td>3</td>
-            	<td><a href="https://github.com/Pjmaciel/project_cc50_harvard"><b>Student Profiler / CI</b></a></td>
+            	<td><a href="https://github.com/Pjmaciel/project_cc50_harvard"><b>Student Profiler</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Pjmaciel/project_cc50_harvard?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Wakatime" src="https://wakatime.com/badge/github/Pjmaciel/project_cc50_harvard.svg?style=flat-square&labelColor=343b41" /></td>
