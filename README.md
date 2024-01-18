@@ -56,12 +56,12 @@ class Programmer
         </tr>
 	 <tr>
 		<td>4</td>
-            	<td><a href="https://github.com/Pjmaciel/lojaProject"><b>LojaProject</b></a></td>
+            	<td><a href="https://github.com/Pjmaciel/Api_Restful_Ts_MongoDB"><b>API Res Ts MongoDB</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Pjmaciel/lojaProject?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/github/Pjmaciel/lojaProject.svg?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Pjmaciel/lojaProject?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pjmaciel/lojaProject?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Pjmaciel/Api_Restful_Ts_MongoDB?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Wakatime" src="https://wakatime.com/badge/github/Pjmaciel/Api_Restful_Ts_MongoDB.svg?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Pjmaciel/Api_Restful_Ts_MongoDB?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pjmaciel/Api_Restful_Ts_MongoDB?style=flat-square&labelColor=343b41" /></td>
         </tr>
     </tbody>
 </table>
