@@ -63,7 +63,8 @@ class Programmer
     </tbody>
 </table>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwNzd5bW54MzYydmRwdzg3eTcycGQ5ZmJheHM0cHY1dHRkdzFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif?raw=true" width="50%" height="335px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwNzd5bW54MzYydmRwdzg3eTcycGQ5ZmJheHM0cHY1dHRkdzFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif?raw=true" width="50%" height="355px" />
+
 ### Languages
 
 <div style="display: inline_block">
