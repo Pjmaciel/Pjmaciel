@@ -7,10 +7,13 @@ class Programmer
 ```
 <div>
 	
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pjmaciel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pjmaciel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
+[![wakatime](https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c.svg)](https://wakatime.com/@018cff2b-53a4-45db-af92-d78ab0987e8c)
 </div>
+
+ 
+
 
 <h2> Conect with me: </h2>
 <div>
@@ -18,7 +21,6 @@ class Programmer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pjmaciel/) 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:pjmaciel_4@hotmail.com) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pjmaciel)
-
 </div>
 <h3>Open Source Projects</h3>
 <table>
