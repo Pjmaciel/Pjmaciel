@@ -38,12 +38,12 @@ class Programmer
     <tbody>
 	<tr>
 		<td>1</td>
-            	<td><a href="https://github.com/Pjmaciel/blogOnRails"><b>Blog On Rails</b></a></td>
+            	<td><a href="https://github.com/Pjmaciel/rubymine_blogOnRails"><b>Blog On Rails</b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Pjmaciel/blogOnRails?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018cff30-fc6e-4e2f-bafc-93616d098d93.svg?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Pjmaciel/blogOnRails?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pjmaciel/blogOnRails?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Pjmaciel/rubymine_blogOnRails?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018de6c0-0205-4c1b-a4c3-7958b2059f5c.svg?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Pjmaciel/rubymine_blogOnRails?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pjmaciel/rubymine_blogOnRails?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
 		<td>2</td>
