@@ -1,111 +1,164 @@
-# Olá, eu sou Pablo 
+<a name="top"></a>
 
-```ruby 
-class Programmer
-
-	def initialize() 
-```
-<div>
-	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pjmaciel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
-[![wakatime](https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c.svg)](https://wakatime.com/@018cff2b-53a4-45db-af92-d78ab0987e8c)
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="750px" align="middle" style="margin-bottom: 500px;">
+  &nbsp;&nbsp;&nbsp;  
+</p>
+  <div>
+    <p>
+      <a href="#sobre-Mim">Sobre mim</a> •
+      <a href="#metricas-e-resultados">Métricas e Resultados</a> • 
+      <a href="#linguagens">Minhas Skills</a> • 
+      <a href="#projetos">Projetos</a> • 
+      <a href="#principais-repositorios">Principais Repositórios</a> • 
+      <a href="#contato">Onde me encontrar</a>
+    </p>
+  </div>
 </div>
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <h2 id="sobre-mim" style="margin-right: 10px;">Sobre mim</h2>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
+  </a>
+</div>
+<div style="text-align: justify;">
+  <!--  <img align="right" alt="Coding" width="260" src="https://github.com/AngeloSouza1/tmp/blob/main/vista.jpg" > -->
+  <br>
+  <p>Olá!</p>
+
+  <p>Sou um desenvolvedor backend que se dedica a melhorar minhas habilidades e conhecimentos na criação de aplicativos web e mobile eficazes. Na minha jornada, estou sempre tentando aprender mais sobre programação e arquitetura de software, buscando inovação e qualidade em todos os projetos em que participo.</p>
+
+  <p>Estou comprometido em entender profundamente as necessidades dos usuários e usar minha experiência para transformar essas necessidades em produtos de software robustos e escaláveis. Estou ansioso para continuar crescendo, superando novos obstáculos e contribuindo para o progresso tecnológico..</p>
+
+  <p>Estou sempre aprendendo e melhorando, e estou pronto para enfrentar novos desafios e usar métodos cada vez mais sofisticados em meus projetos.</p>
+</div>
+
+<br>
+
+
+<br>
+
+<div style="display: flex; align-items: center;">
+  <h2 id="sobre-mim" style="margin-right: 10px;">Minhas Skills</h2>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
+  </a>
+</div>
+</p>
+
+**Aplicações e dados**
+
+![Ruby](https://img.shields.io/badge/Ruby-333333?style=flat&logo=ruby&logoColor=red)
+![Ruby on rails](https://img.shields.io/badge/Ruby_on_Rails-333333?style=flat&logo=ruby-on-rails&logoColor=red)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![PYTHON](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgresSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
+
+ <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats" />
+</br>
+
+<!--**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) -->
+  
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<!--![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket) -->
+<!--![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) -->
+<!--![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis) -->
+
+**Ferramentas de desenvolvimento**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" width="20" height="22">![RubyMine](https://img.shields.io/badge/-RubyMine-333333?style=flat&logo=rubymine)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<a href="https://github.com/Pjmaciel" title="Perfil do Pablo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pjmaciel&theme=dracula&show_icons=true" />
+</a>
+
+
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
+
+
+</br>
+  
+<div style="display: flex; align-items: center;">
+  <h2 id="sobre-mim" style="margin-right: 10px;">Projetos</h2>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
+  </a>
+</div>
+
+<center>
+  <table>
+    <tr>
+      <th>Projeto</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td>Ticket</td>
+      <td><a href="https://github.com/desenvolvendo-me/ticket-event"><img alt="Ticket Event" src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-563D7C?style=flat&logoColor=white"></a></td>
+    </tr>
+  </table>
+</center>
+
+
+<div style="display: flex; align-items: center;">
+  <h2 id="sobre-mim" style="margin-right: 10px;">Principais Repositórios</h2>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
+  </a>
+</div>
+
+<center>
+  <table>
+    <tr>
+      <th>Repositório</th>
+      <th>Skill</th>
+      <th>Wakatime</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Pjmaciel/rubymine_blogOnRails"><img alt="Blog On Rails" src="https://img.shields.io/badge/-Blog%20On%20Rails-563D7C?style=flat&logoColor=white"></a></td>
+      <td><img src="https://img.shields.io/badge/Developer-333333?style=flat" alt="Developer"></td>
+      <td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018de6c0-0205-4c1b-a4c3-7958b2059f5c.svg?style=flat-square&labelColor=343b41"></td>
+    </tr>
+  </table>
+</center>
+
+
+</br>
+
+<div style="display: flex; align-items: center;">
+  <h2 id="sobre-mim" style="margin-right: 10px;">Onde me encontrar</h2>
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
+  </a>
+</div>
+
+[![Linkedin](https://img.shields.io/badge/-pjmaciel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pjmaciel/)](https://www.linkedin.com/in/pjmaciel/)
+[![Gmail Badge](https://img.shields.io/badge/-pjmaciel_4@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:pjmaciel_4@hotmail.com)
+[![GitHub](https://img.shields.io/github/followers/Pjmaciel?label=follow&style=social)](https://github.com/Pjmaciel)
+
+
+
 
  
 
 
-<h2> Conect with me: </h2>
-<div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pjmaciel/) 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:pjmaciel_4@hotmail.com) 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pjmaciel)
-</div>
-<h3>Open Source Projects</h3>
-<table>
-    <thead align="center">
-        <tr border: none;>
-            <td><b>Id</b></td>
-	    <td><b>Projects</b></td>
-	    <td><b>Skills</b></td>
-            <td><b>Stars</b></td>
-            <td><b>Wakatime</b></td>
-            <td><b>Issues</b></td>
-            <td><b>Pull requests</b></td>
-        </tr>
-    </thead>
-    <tbody>
-	<tr>
-		<td>1</td>
-            	<td><a href="https://github.com/Pjmaciel/rubymine_blogOnRails"><b>Blog On Rails</b></a></td>
-		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Pjmaciel/rubymine_blogOnRails?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018de6c0-0205-4c1b-a4c3-7958b2059f5c.svg?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Pjmaciel/rubymine_blogOnRails?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pjmaciel/rubymine_blogOnRails?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-        <tr>
-		<td>2</td>
-		<td><a href="https://github.com/deepdevsg5/Allocation_App"><b>Allocation APP</b></a></td>
-	 	<td>Developer</td>
-	    	<td><img alt="Stars" src="https://img.shields.io/github/stars/deepdevsg5/Allocation_App"?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/github/deepdevsg5/Allocation_App.svg"?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/deepdevsg5/Allocation_App"?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/deepdevsg5/Allocation_App"?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-        <tr>
-		<td>3</td>
-            	<td><a href="https://github.com/Pjmaciel/project_cc50_harvard"><b>Student Profiler</b></a></td>
-		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/Pjmaciel/project_cc50_harvard?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/github/Pjmaciel/project_cc50_harvard.svg?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/Pjmaciel/project_cc50_harvard?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Pjmaciel/project_cc50_harvard?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-    </tbody>
-</table>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwNzd5bW54MzYydmRwdzg3eTcycGQ5ZmJheHM0cHY1dHRkdzFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif?raw=true" width="50%" height="355px" />
-
-### Languages
-
-<div style="display: inline_block">
-  <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jquery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
-  <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-### Versioning
-
-<div style="display: inline_block">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
-
-
-
-### Databases
-
-<div style="display: inline_block">
-  <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-</div>
-
-### Frameworks/CMS/Others
-
-<div style="display: inline_block">
-  <img align="center" alt="rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
-</div>
-
-
- 
-```ruby 
-	end 
-end 
-```
