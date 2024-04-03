@@ -65,7 +65,7 @@
         alt="Github Stats" />
 </br>
 
-📊 ** Evolução Semanal de Desenvolvimento**
+📊 **Evolução Semanal de Desenvolvimento**
 <!--START_SECTION:waka-->
 
 ```ruby
