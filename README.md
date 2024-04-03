@@ -65,6 +65,24 @@
         alt="Github Stats" />
 </br>
 
+📊 ** Evolução Semanal de Desenvolvimento**
+<!--START_SECTION:waka-->
+
+```ruby
+From: 12 January 2024 - To: 02 April 2024
+
+Total Time: 126 hrs 21 mins
+
+Ruby             90 hrs 17 mins  █████████████████▓░░░░░░░   71.31 %
+ERB              20 hrs 20 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Markdown         4 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+JavaScript       1 hr 45 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+```
+
+<!--END_SECTION:waka-->
+
+</br>
+
 <!--**Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
@@ -89,23 +107,6 @@
 </a>
 
 
-
-
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-
-```ruby
-From: 12 January 2024 - To: 02 April 2024
-
-Total Time: 126 hrs 21 mins
-
-Ruby             90 hrs 17 mins  █████████████████▓░░░░░░░   71.31 %
-ERB              20 hrs 20 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
-Markdown         4 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-JavaScript       1 hr 45 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-```
-
-<!--END_SECTION:waka-->
 
 
 </br>
