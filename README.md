@@ -61,7 +61,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 
- <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+ <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats" />
 </br>
 
