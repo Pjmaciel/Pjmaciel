@@ -23,5 +23,10 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: YAML JSON TOML
-          
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
+          TARGET_BRANCH: master # optional
+          TARGET_PATH: README.md # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
           
