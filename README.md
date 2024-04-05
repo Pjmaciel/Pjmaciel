@@ -42,7 +42,7 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-  <h2 id="sobre-mim" style="margin-right: 10px;">Minhas Skills</h2>
+  <h2 id="Minhas-Skills" style="margin-right: 10px;">Minhas Skills</h2>
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
   </a>
@@ -113,7 +113,7 @@ JavaScript       1 hr 45 mins    ▒░░░░░░░░░░░░░░�
 </br>
   
 <div style="display: flex; align-items: center;">
-  <h2 id="sobre-mim" style="margin-right: 10px;">Projetos</h2>
+  <h2 id="Projetos" style="margin-right: 10px;">Projetos</h2>
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
   </a>
@@ -134,7 +134,7 @@ JavaScript       1 hr 45 mins    ▒░░░░░░░░░░░░░░�
 
 
 <div style="display: flex; align-items: center;">
-  <h2 id="sobre-mim" style="margin-right: 10px;">Principais Repositórios</h2>
+  <h2 id="principais-repositórios" style="margin-right: 10px;">Principais Repositórios</h2>
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
   </a>
@@ -148,6 +148,11 @@ JavaScript       1 hr 45 mins    ▒░░░░░░░░░░░░░░�
       <th>Wakatime</th>
     </tr>
     <tr>
+       <td><a href="https://github.com/Pjmaciel/editora-project"><img alt="Editora-Project" src="https://img.shields.io/badge/-Editora%20Project%20-563D7C?style=flat&logoColor=white"></a></td>
+       <td><img src="https://img.shields.io/badge/Developer-333333?style=flat" alt="Developer"></td>
+      <td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018ea94d-29e4-405e-beaa-6a3d0ec5677e.svg?style=flat-square&labelColor=343b41"></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Pjmaciel/rubymine_blogOnRails"><img alt="Blog On Rails" src="https://img.shields.io/badge/-Blog%20On%20Rails-563D7C?style=flat&logoColor=white"></a></td>
       <td><img src="https://img.shields.io/badge/Developer-333333?style=flat" alt="Developer"></td>
       <td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018de6c0-0205-4c1b-a4c3-7958b2059f5c.svg?style=flat-square&labelColor=343b41"></td>
@@ -159,11 +164,12 @@ JavaScript       1 hr 45 mins    ▒░░░░░░░░░░░░░░�
 </br>
 
 <div style="display: flex; align-items: center;">
-  <h2 id="sobre-mim" style="margin-right: 10px;">Onde me encontrar</h2>
+  <h2 id="Onde-me-encontrar" style="margin-right: 10px;">Onde me encontrar</h2>
   <a href="#top">
     <img src="https://img.shields.io/badge/Back%20to%20top-8A2BE2"> 
   </a>
 </div>
+</p>
 
 [![Linkedin](https://img.shields.io/badge/-pjmaciel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pjmaciel/)](https://www.linkedin.com/in/pjmaciel/)
 [![Gmail Badge](https://img.shields.io/badge/-pjmaciel_4@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:pjmaciel_4@hotmail.com)
