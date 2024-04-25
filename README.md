@@ -129,6 +129,10 @@ JavaScript       3 hrs 23 mins   ▓░░░░░░░░░░░░░░�
       <td>Ticket</td>
       <td><a href="https://github.com/desenvolvendo-me/ticket-event"><img alt="Ticket Event" src="https://img.shields.io/badge/-🎟️%20Ticket%20Event-563D7C?style=flat&logoColor=white"></a></td>
     </tr>
+    <tr>
+      <td>Ticket</td>
+      <td><a href="https://github.com/desenvolvendo-me/startup-mission-base-rails"><img alt="startup mission base" src="https://img.shields.io/badge/-⌨️%20startup%20mission%20base-563D7C?style=flat&logoColor=white"></a></td>
+    </tr>
   </table>
 </center>
 
