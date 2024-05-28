@@ -69,15 +69,15 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 12 January 2024 - To: 26 May 2024
+From: 12 January 2024 - To: 27 May 2024
 
-Total Time: 218 hrs 22 mins
+Total Time: 220 hrs 28 mins
 
-Ruby                  138 hrs 34 mins ████████████████░░░░░░░░░   63.38 %
-ERB                   51 hrs 35 mins  ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-YAML                  6 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Markdown              6 hrs 32 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-JavaScript            3 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Ruby                  139 hrs 7 mins  ███████████████▓░░░░░░░░░   63.02 %
+ERB                   53 hrs 9 mins   ██████░░░░░░░░░░░░░░░░░░░   24.08 %
+YAML                  6 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Markdown              6 hrs 32 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JavaScript            3 hrs 28 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
