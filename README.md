@@ -126,6 +126,14 @@ JavaScript            3 hrs 39 mins   ▒░░░░░░░░░░░░░
       <th>Link</th>
     </tr>
     <tr>
+      <td>Lead Score</td>
+      <td><a href="https://github.com/desenvolvendo-me/devify/graphs/contributors"><img alt="lead Score" src="https://img.shields.io/badge/-🎯%20Lead%20Score-563D7C?style=flat&logoColor=white"></a></td>
+    </tr>
+     <tr>
+      <td>Devify</td>
+      <td><a href="https://github.com/desenvolvendo-me/devify/graphs/contributors"><img alt="Devify" src="https://img.shields.io/badge/-🧑‍💻%20Devify-563D7C?style=flat&logoColor=white"></a></td>
+    </tr>
+    <tr>
       <td>Startup M.B.</td>
       <td><a href="https://github.com/desenvolvendo-me/startup-mission-base-rails/graphs/contributors"><img alt="startup mission base" src="https://img.shields.io/badge/-⌨️%20startup%20mission%20base-563D7C?style=flat&logoColor=white"></a></td>
     </tr>
