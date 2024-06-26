@@ -99,7 +99,7 @@ JavaScript            3 hrs 39 mins   ▒░░░░░░░░░░░░░
 
 **Ferramentas de desenvolvimento**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rubymine/rubymine-original.svg" width="20" height="22">![RubyMine](https://img.shields.io/badge/-RubyMine-333333?style=flat&logo=rubymine)
+![RubyMine](https://img.shields.io/badge/-RubyMine-333333?style=flat&logo=rubymine)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
