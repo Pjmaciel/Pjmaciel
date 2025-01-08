@@ -69,13 +69,13 @@
 <!--START_SECTION:waka-->
 
 ```ruby
-From: 12 January 2024 - To: 05 January 2025
+From: 12 January 2024 - To: 07 January 2025
 
-Total Time: 787 hrs 23 mins
+Total Time: 787 hrs 56 mins
 
-Ruby                  463 hrs 49 mins ██████████████▓░░░░░░░░░░   58.87 %
-ERB                   229 hrs 21 mins ███████▒░░░░░░░░░░░░░░░░░   29.11 %
-JavaScript            16 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Ruby                  464 hrs 3 mins  ██████████████▓░░░░░░░░░░   58.86 %
+ERB                   229 hrs 35 mins ███████▒░░░░░░░░░░░░░░░░░   29.12 %
+JavaScript            16 hrs 9 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 Bash                  9 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
