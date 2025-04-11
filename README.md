@@ -125,6 +125,10 @@ Bash                  10 hrs 57 mins  ▒░░░░░░░░░░░░░
       <th>Link</th>
     </tr>
     <tr>
+     <td>Funnelx</td>
+     <td><a href="https://github.com/desenvolvendo-me/funnelx/graphs/contributors"><img alt="funnelx" src="https://img.shields.io/badge/▽%20funnelx-563D7C?style=flat&logoColor=white"></a></td>
+    </tr>
+    <tr>
       <td>Lead Score</td>
       <td><a href="https://github.com/desenvolvendo-me/devify/graphs/contributors"><img alt="lead Score" src="https://img.shields.io/badge/-🎯%20Lead%20Score-563D7C?style=flat&logoColor=white"></a></td>
     </tr>
