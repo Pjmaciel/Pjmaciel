@@ -159,6 +159,11 @@ Bash                  11 hrs          ▒░░░░░░░░░░░░░
       <th>Wakatime</th>
     </tr>
     <tr>
+       <td><a href="https://github.com/chat-app-organization"><img alt="Chat-App" src="https://img.shields.io/badge/-Chat%20App%20-563D7C?style=flat&logoColor=white"></a></td>
+       <td><img src="https://img.shields.io/badge/Developer-333333?style=flat" alt="Developer"></td>
+      <td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/8e730e44-e702-4b9d-ace0-602346497e90.svg?style=flat-square&labelColor=343b41"></td>
+    </tr>
+    <tr>
        <td><a href="https://github.com/Pjmaciel/editora-project"><img alt="Editora-Project" src="https://img.shields.io/badge/-Editora%20Project%20-563D7C?style=flat&logoColor=white"></a></td>
        <td><img src="https://img.shields.io/badge/Developer-333333?style=flat" alt="Developer"></td>
       <td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018ea94d-29e4-405e-beaa-6a3d0ec5677e.svg?style=flat-square&labelColor=343b41"></td>
